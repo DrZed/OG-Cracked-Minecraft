@@ -6,3 +6,7 @@ This is archiving a relic of minecraft history I happened to still have.
 Do not trust random software found online...
 
 This launcher version still works to this day grabbing the latest version of minecraft available via the Legacy Servers (1.5.2)
+
+![alt text](https://i.imgur.com/5k7QjSb.png)
+
+![alt text](https://i.imgur.com/riLJHai.png)
